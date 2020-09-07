@@ -1,0 +1,75 @@
+.header {
+	background-color: #bdb4af;
+	padding-top: 1px;
+	padding-bottom: 0.5px;
+	font-weight: bold;
+	font-family: "Emblema One", cursive;
+	text-align: center;
+	font-size: 150%;
+	
+}
+h2 {
+	color: red;
+	font-family: "Emblema One", cursive;
+	font-size: 20px;
+	padding-left: 20px;
+	border-bottom: thin dotted #888888;
+}
+.Goals {
+	background-color: #f7dc1ed6;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+	font-weight: bold;
+	line-height: 1.6em;
+}
+.Books {
+	background-color: pink;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+}
+.Feedback {
+	background-color: green;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+}
+a {
+	font-style: italic;
+}
+span {
+	margin: 20px 2px 20px 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+ul {
+	padding: 10px 10px 20px 10px;
+	margin: 10px 10px 5px 50px;
+}
+img {
+	padding: 10px 10px 20px 10px;
+	margin: 10px 10px 5px 50px;
+}
+th, td {
+	border: 2px solid brown;
+    padding: 10px;
+    text-align: center;  
+}
+table {
+	border: 2px brown;
+	margin: 0 auto 0 auto;
+	border-collapse: collapse;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+form {
+	padding: 10px 20px 10px 40px;
+}
+.textarea {
+	margin-left: 40px;
+	margin-top: 10px;
+}
+.Thanks {
+	text-align: center;
+	font-size: 15px;
+}
+
